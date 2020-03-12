@@ -1,4 +1,16 @@
 {
+    "0.0.1": {
+        "is_upgradable": false,
+        "upgrade_executable_url": null,
+        "is_executable": true,
+        "release_date": "20200304"
+    },
+    "0.0.0": {
+        "is_upgradable": true,
+        "upgrade_executable_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe",
+        "is_executable": true,
+        "release_date": "20200201"
+    },
     "current_version": "0.0.1",
     "release_date": "20200304",
     "executable_download_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe"
