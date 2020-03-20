@@ -11,7 +11,7 @@
         "is_executable": true,
         "release_date": "20200201"
     },
-    "current_version": "0.0.1",
+    "latest_version": "0.0.1",
     "release_date": "20200304",
     "executable_download_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe"
 }
