@@ -1,6 +1,6 @@
 {
     "0.0.2": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "upgrade_executable_url": null,
         "is_executable": false,
         "release_date": "20200304"
