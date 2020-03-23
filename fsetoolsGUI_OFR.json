@@ -1,23 +1,23 @@
 {
     "0.0.2": {
-        "is_upgradable": true,
-        "upgrade_executable_url": null,
-        "is_executable": false,
-        "release_date": "20200304"
+        "is_upgradable": false,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20200303"
     },
     "0.0.1": {
-        "is_upgradable": false,
-        "upgrade_executable_url": null,
-        "is_executable": true,
-        "release_date": "20200304"
+        "is_upgradable": true,
+        "executable_download_url": null,
+        "is_executable": false,
+        "release_date": "20200302"
     },
     "0.0.0": {
         "is_upgradable": true,
-        "upgrade_executable_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe",
-        "is_executable": true,
-        "release_date": "20200201"
+        "executable_download_url": null,
+        "is_executable": false,
+        "release_date": "20200301"
     },
     "latest_version": "0.0.3",
-    "release_date": "20200304",
-    "executable_download_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe"
+    "latest_release_date": "20200304",
+    "latest_executable_download_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe"
 }
