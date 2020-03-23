@@ -8,7 +8,7 @@
     "0.0.1": {
         "is_upgradable": true,
         "executable_download_url": null,
-        "is_executable": false,
+        "is_executable": true,
         "release_date": "20200302"
     },
     "0.0.0": {
