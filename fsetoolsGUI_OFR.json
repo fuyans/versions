@@ -3,10 +3,10 @@
         "is_upgradable": false,
         "executable_download_url": null,
         "is_executable": true,
-        "release_date": "20200303"
+        "release_date": "20200414"
     },
     "0.0.2": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20200303"
@@ -25,5 +25,5 @@
     },
     "latest_version": "0.0.3",
     "latest_release_date": "20200304",
-    "latest_executable_download_url": "https://github.com/fsepy/fsetools/releases/download/0.0.1/FSETOOLS.0.0.1.exe"
+    "latest_executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/ETxTy5uZPNlJo1WRrim7Gh8BAxvnzZRZjn2LBmoYYv4NTQ?e=5iMVXr"
 }
