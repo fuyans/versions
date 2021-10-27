@@ -1,5 +1,11 @@
 {
     
+    "0.1.dev2": {
+        "is_upgradable": false,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20211027"
+    },
     "0.1.dev1": {
         "is_upgradable": false,
         "executable_download_url": null,
