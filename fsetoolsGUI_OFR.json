@@ -12,6 +12,12 @@
         "is_executable": true,
         "release_date": "20211025"
     },
+    "0.0.9": {
+        "is_upgradable": false,
+        "executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/ESVeQH8cGlNMrc6BEovEE2EBeF__6eZSscqLC4ClTQHb7w?e=74X2LP",
+        "is_executable": true,
+        "release_date": "20201118"
+    },
     "0.0.8": {
         "is_upgradable": false,
         "executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EcWPnnbCWURBoyRWk-0EDkYB-CW401xf8sQjEfk3qek0cw?e=BPeYib",
