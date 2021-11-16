@@ -73,9 +73,9 @@
         "release_date": "20200303"
     },
     "0.0.1": {
-        "is_upgradable": true,
+        "is_upgradable": false,
         "executable_download_url": null,
-        "is_executable": false,
+        "is_executable": true,
         "release_date": "20200302"
     },
     "0.0.0": {
