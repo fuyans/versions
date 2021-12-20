@@ -1,60 +1,60 @@
 {
     "0.1": {
         "is_upgradable": false,
-        "executable_download_url": null,
+        "executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EYU9eAMRuQJJle2rSb8UnncBMNnWQ42uPQA4gTZdkvPapQ?e=MMUhYe",
         "is_executable": true,
         "release_date": "20211216"
     },
     "0.1.dev7": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211213"
     },
     "0.1.dev6": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211129"
     },
     "0.1.dev5": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211119"
     },
     "0.1.dev4": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211104"
     },
     "0.1.dev3": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211103"
     },
     "0.1.dev2": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211027"
     },
     "0.1.dev1": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20211025"
     },
     "0.0.9": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20201118"
     },
     "0.0.8": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20201118"
@@ -107,7 +107,7 @@
         "is_executable": false,
         "release_date": "20200301"
     },
-    "latest_version": "0.0.9",
-    "latest_release_date": "21091310",
-    "latest_executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/ESVeQH8cGlNMrc6BEovEE2EBeF__6eZSscqLC4ClTQHb7w?e=74X2LP"
+    "latest_version": "0.1",
+    "latest_release_date": "20211220",
+    "latest_executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EYU9eAMRuQJJle2rSb8UnncBMNnWQ42uPQA4gTZdkvPapQ?e=MMUhYe"
 }
