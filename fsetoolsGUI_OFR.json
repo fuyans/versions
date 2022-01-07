@@ -1,6 +1,12 @@
 {
-    "0.1": {
+    "0.1.2": {
         "is_upgradable": false,
+        "executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EU7cYYvR67BArPqIKmDoVvQBeTUoNMCHthatNe326PCpxg",
+        "is_executable": true,
+        "release_date": "20220107"
+    },
+    "0.1": {
+        "is_upgradable": true,
         "executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EYU9eAMRuQJJle2rSb8UnncBMNnWQ42uPQA4gTZdkvPapQ?e=MMUhYe",
         "is_executable": true,
         "release_date": "20211216"
@@ -107,7 +113,7 @@
         "is_executable": false,
         "release_date": "20200301"
     },
-    "latest_version": "0.1",
-    "latest_release_date": "20211220",
-    "latest_executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EYU9eAMRuQJJle2rSb8UnncBMNnWQ42uPQA4gTZdkvPapQ?e=MMUhYe"
+    "latest_version": "0.1.2",
+    "latest_release_date": "20220107",
+    "latest_executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/EU7cYYvR67BArPqIKmDoVvQBeTUoNMCHthatNe326PCpxg"
 }
