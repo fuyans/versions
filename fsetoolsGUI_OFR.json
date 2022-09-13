@@ -2,7 +2,7 @@
     "0.1.3.dev8": {
         "is_upgradable": false,
         "executable_download_url": "https://filamentfire-my.sharepoint.com/:u:/g/personal/ian_fu_ofrconsultants_com/ESq0d4WyJURBreLdUOTspn8BRAx7Iy0HVJTuZDdr9RyBHA?e=RFaePf",
-        "is_executable": false,
+        "is_executable": true,
         "release_date": "20220127"
     },
     "0.1.3.dev1": {
