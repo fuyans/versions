@@ -1,9 +1,21 @@
 {
-    "1.0.1": {
+    "1.0.3": {
         "is_upgradable": false,
         "executable_download_url": null,
         "is_executable": true,
-        "release_date": "02030628"
+        "release_date": "20230925"
+    },
+    "1.0.2": {
+        "is_upgradable": true,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20230814"
+    },
+    "1.0.1": {
+        "is_upgradable": true,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20230628"
     },
     "1.0.0": {
         "is_upgradable": true,
@@ -179,7 +191,7 @@
         "is_executable": false,
         "release_date": "20200301"
     },
-    "latest_version": "1.0.1",
-    "latest_release_date": "20230628",
-    "latest_executable_download_url": "Please visit Company Portal"
+    "latest_version": "1.0.3",
+    "latest_release_date": "20230925",
+    "latest_executable_download_url": "Please visit the Company Portal to download/install the latest version"
 }
