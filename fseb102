@@ -1,0 +1,11 @@
+{
+    "0.1": {
+        "is_upgradable": false,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20240624"
+    },
+    "latest_version": "0.1",
+    "latest_release_date": "20240624",
+    "latest_executable_download_url": "Please visit the Company Portal to download/install the latest version"
+}
