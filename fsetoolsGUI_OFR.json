@@ -1,6 +1,24 @@
 {
+    "1.0.6": {
+        "is_upgradable": true,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20230925"
+    },
+    "1.0.5": {
+        "is_upgradable": true,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20230925"
+    },
+    "1.0.4": {
+        "is_upgradable": true,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20230925"
+    },
     "1.0.3": {
-        "is_upgradable": false,
+        "is_upgradable": true,
         "executable_download_url": null,
         "is_executable": true,
         "release_date": "20230925"
