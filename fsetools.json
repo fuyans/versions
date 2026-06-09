@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "product": "fsetools",
+  "channels": {
+    "stable": {
+      "latest": "0.2.0",
+      "min_supported": "0.1.0",
+      "released": "2026-06-01T00:00:00Z",
+      "notes_url": "https://xwiki.ofrconsultants.com/fsetools/changelog#0.2.0",
+      "message": "",
+      "downloads": {
+        "win64": { "url": "", "sha256": "…" },
+        "macos": { "url": "", "sha256": "…" }
+      }
+    }
+  }
+}
