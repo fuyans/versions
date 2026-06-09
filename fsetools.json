@@ -9,8 +9,8 @@
       "notes_url": "https://xwiki.ofrconsultants.com/fsetools/changelog#0.2.0",
       "message": "",
       "downloads": {
-        "win64": { "url": "", "sha256": "…" },
-        "macos": { "url": "", "sha256": "…" }
+        "win64": { "url": "companyportal:ApplicationId=8239335e-8595-47ec-b0b7-bd6c8fca780e", "sha256": "f5cd56bd0c9de4cf682031024e9f07c915f0bd2071636447490618c31790cb77" },
+        "macos": { "url": "companyportal:ApplicationId=8239335e-8595-47ec-b0b7-bd6c8fca780e", "sha256": "f5cd56bd0c9de4cf682031024e9f07c915f0bd2071636447490618c31790cb77" }
       }
     }
   }
