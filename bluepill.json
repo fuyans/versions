@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "product": "bluepill",
+  "channels": {
+    "stable": {
+      "latest": "2.11.0",
+      "min_supported": "2.11.0",
+      "released": "2026-06-01T00:00:00Z",
+      "notes_url": "",
+      "message": "",
+      "downloads": {
+        "win64": { "url": "companyportal:ApplicationId=8239335e-8595-47ec-b0b7-bd6c8fca780e", "sha256": "f5cd56bd0c9de4cf682031024e9f07c915f0bd2071636447490618c31790cb77" },
+        "macos": { "url": "companyportal:ApplicationId=8239335e-8595-47ec-b0b7-bd6c8fca780e", "sha256": "f5cd56bd0c9de4cf682031024e9f07c915f0bd2071636447490618c31790cb77" }
+      }
+    }
+  }
+}
