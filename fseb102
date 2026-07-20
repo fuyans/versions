@@ -1,4 +1,10 @@
 {
+    "0.3": {
+        "is_upgradable": false,
+        "executable_download_url": null,
+        "is_executable": true,
+        "release_date": "20250624"
+    },
     "0.1": {
         "is_upgradable": false,
         "executable_download_url": null,
